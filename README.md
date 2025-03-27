@@ -94,7 +94,7 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-For any questions or support, please contact [gayatrisingh9317@gmail.coml](mailto:your.email@example.com).
+For any questions or support, please contact [gayatrisingh9317@gmail.com](mailto:your.email@example.com).
 
 ---
 
