@@ -1,5 +1,4 @@
 
-
 # Fake Mail Detection System
 
 ## Overview
