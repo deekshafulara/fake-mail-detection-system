@@ -1,6 +1,4 @@
-Certainly! Here's a concise and effective README you can upload to your GitHub repository for the Fake Mail Detection System:
 
----
 
 # Fake Mail Detection System
 
